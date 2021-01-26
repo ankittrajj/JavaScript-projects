@@ -1,2 +1,2 @@
 # JavaScript-projects
-![alt text](Screenshot (26).png)
+![](Screenshot (26).png)
